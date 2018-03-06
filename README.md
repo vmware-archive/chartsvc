@@ -1,8 +1,3 @@
-[![CircleCI](https://circleci.com/gh/kubeapps/chartsvc.svg?style=svg)](https://circleci.com/gh/kubeapps/chartsvc)
+# MOVED to [kubeapps/kubeapps](https://github.com/kubeapps/kubeapps/tree/master/cmd/chartsvc)
 
-# ChartSvc
-
-ChartSvc is a service for KubeApps that reads chart metadata from the database
-and presents it in a RESTful API. It should be used with the
-[chart-repo-sync](https://github.com/kubernetes-helm/monocular/tree/master/src/api/cmd/chart-repo-sync) to populate chart
-metadata in the database.
+We merged this project into the main Kubeapps repository. All development should continue there and this repository is archived and will be deleted in the future.
